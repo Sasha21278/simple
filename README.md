@@ -1,6 +1,9 @@
 PrimeReader – Uživatelská dokumentace
+
 Verze: 1.0 Datum: 25.12.2025
+
 Udelal: Bc.Diakonov Aleksandr
+
 ________________________________________
 1. O projektu
 PrimeReader je konzolová aplikace v jazyce Java, která slouží k automatizované analýze Excel souborů (.xlsx). Program načte data ze souboru, extrahuje číselné hodnoty z druhého sloupce (sloupec B) a identifikuje všechna prvočísla. Nalezená prvočísla jsou následně vypsána do konzole.
