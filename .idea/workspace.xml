@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4f714b3-a9a3-403c-9cbc-df9c99d0acb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrimeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrimeCheckerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +61,33 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.PrimeCheckerTest">
+    <configuration name="PrimeCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prime-excel-reader" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeCheckerTest.testIsPrime_StandardPrimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prime-excel-reader" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeCheckerTest" />
+      <option name="METHOD_NAME" value="testIsPrime_StandardPrimes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrimeCheckerTest" />
+        <item itemvalue="JUnit.PrimeCheckerTest.testIsPrime_StandardPrimes" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766161334904</updated>
       <workItem from="1766161335958" duration="3896000" />
-      <workItem from="1766691388433" duration="2353000" />
+      <workItem from="1766691388433" duration="2812000" />
     </task>
     <servers />
   </component>
